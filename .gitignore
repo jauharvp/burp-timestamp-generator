@@ -10,3 +10,4 @@
 # Ignore build files
 /build/
 /out/
+/target/
