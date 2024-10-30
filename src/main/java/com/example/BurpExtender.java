@@ -1,4 +1,4 @@
-package com.example; // Ensure this is correct for your package structure
+package com.example; 
 
 import burp.*; // Burp Suite imports
 import java.awt.*; // For GUI components
